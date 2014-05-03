@@ -1,10 +1,10 @@
-History:
------------------
-lastchange : Nick
-date : 03.05.2014 | 23:45
------------------
-
-LECK MICH AM ARSCH!
-date: now
-
-bla bla skandi change
+Commands :
+----------------------
+Install Cordova :
+npm install -g cordova
+-----------------------
+-----------------------
+Plattform adden:
+cd C:\"appfolder"
+cordova platform add android
+-----------------------
